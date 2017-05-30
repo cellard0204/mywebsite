@@ -4,6 +4,7 @@ website
 
 Update on master
 
-##Purpose
+##Repository Purpose
 
-Change Chnae 
+
+This is just a readme file.
